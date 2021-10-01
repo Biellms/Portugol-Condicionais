@@ -1,2 +1,2 @@
 # Portugol-Condicionais
-Exercícios de Condicionais no Portugol Studio pela Generation Brasil.
+Exercícios de Condicionais no Portugol Studio propostos pela Generation Brasil.
